@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "DietCalendar",
+    "slug": "DietCalendar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/cover6.jpg",
+    "splash": {
+      "image": "./assets/cover2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nikitaker.DietCalendar"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/cover6.jpg",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/cover2.png"
+    },
+    "description": ""
+  }
+}
